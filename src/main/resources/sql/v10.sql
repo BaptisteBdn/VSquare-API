@@ -1,0 +1,1 @@
+ALTER TABLE `vm` ADD COLUMN `template` boolean NOT NULL DEFAULT 0;
