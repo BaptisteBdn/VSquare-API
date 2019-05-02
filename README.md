@@ -25,7 +25,7 @@ This API originally was used with the <a href="https://github.com/mortrevere/vsq
 
 | <a href="https://github.com/Klemek" target="_blank">**Klemek**</a> | <a href="https://github.com/mortrevere" target="_blank">**mortrevere**</a> | <a href="https://github.com/kalioz" target="_blank">**kalioz**</a> | <a href="https://github.com/Pphttp" target="_blank">**Pphttp**</a> |
 | :---: |:---:| :---:|  :---:|
-| [![Klemek](https://avatars2.githubusercontent.com/u/12103162?s=200)](https://github.com/Klemek)    | [![mortrevere](https://avatars3.githubusercontent.com/u/1038894?s=200)](https://github.com/mortrevere) | [![kalioz](https://avatars1.githubusercontent.com/u/204?s=200)](https://github.com/kalioz)  | [![Pphttp](https://avatars0.githubusercontent.com/u/34655522?s=200)](https://github.com/Pphttp)  |
+| [![Klemek](https://avatars2.githubusercontent.com/u/12103162?s=200)](https://github.com/Klemek)    | [![mortrevere](https://avatars3.githubusercontent.com/u/1038894?s=200)](https://github.com/mortrevere) | [![kalioz](https://avatars1.githubusercontent.com/u/24780504?s=200)](https://github.com/kalioz)  | [![Pphttp](https://avatars0.githubusercontent.com/u/34655522?s=200)](https://github.com/Pphttp)  |
 | <a href="http://github.com/Klemek" target="_blank">`github.com/Klemek`</a> | <a href="http://github.com/mortrevere" target="_blank">`github.com/mortrevere`</a> | <a href="http://github.com/kalioz" target="_blank">`github.com/kalioz`</a> |  <a href="http://github.com/Pphttp" target="_blank">`github.com/Pphttp`</a> |
 
 ## Build and coverage 
